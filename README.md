@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed Hafeel J
 
-<!--
-**mohamedhafeel012009/mohamedhafeel012009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech Artificial Intelligence and Machine Learning Student.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 Currently learning Python Programming.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💻 Exploring Web Development and Software Development.
+- 🚀 Passionate about learning new technologies and building projects.
+- 🎯 My goal is to become a skilled AI/ML Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- Basic Programming
+- Git & GitHub
+
+## 📚 Currently Learning
+- Python Programming
+- Machine Learning
+- Artificial Intelligence
+- Web Development
+
+## 🚀 Projects
+- Python Programming Exercises
+- Django Web Development
+- SwarmLogix – Autonomous Drone Coordination Concept
+
+## 🌐 Connect With Me
+- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_PROFILE_URL)
+
+---
+⭐ Thanks for visiting my GitHub profile!
