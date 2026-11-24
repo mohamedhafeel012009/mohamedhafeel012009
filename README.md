@@ -28,7 +28,7 @@
 - SwarmLogix – Autonomous Drone Coordination Concept
 
 ## 🌐 Connect With Me
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_PROFILE_URL)
+- LinkedIn: [My LinkedIn Profile]:https://www.linkedin.com/in/mohamed-hafeel-j-b19910450
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
